@@ -33,3 +33,10 @@
 .row__posterLarge:hover {
   transform: scale(1.09);
 }
+
+/* .transition__youtube {
+  transition: all 0.5s;
+}
+.transition__youtube:active {
+  transition: all 0.5s;
+} */
